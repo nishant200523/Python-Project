@@ -1,0 +1,14 @@
+[
+    {
+        "id": "bitcoin",
+        "amount": 0.01
+    },
+    {
+        "id": "ethereum",
+        "amount": 0.1
+    },
+    {
+        "id": "dogecoin",
+        "amount": 200
+    }
+]
